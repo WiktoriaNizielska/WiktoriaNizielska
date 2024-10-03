@@ -1,4 +1,6 @@
-## Hi there 👋
+# Wiktoria Nizielska
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&color=6B7ED7&background=2C18FF00&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+
 
 <!--
 **WiktoriaNizielska/WiktoriaNizielska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
