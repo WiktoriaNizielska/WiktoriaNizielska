@@ -16,8 +16,7 @@ Contact me: wiktorianizielska@gmail.com
 
 
 ## Currently learning
-![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/vite-%20?style=for-the-badge&logo=vite&logoColor=white&color=%23B28DD8)
-
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ## 🔥 My Development Philosophy
 
 - **Clean Code**: Writing readable, maintainable, and efficient code
@@ -48,6 +47,7 @@ Contact me: wiktorianizielska@gmail.com
 <!--
 **WiktoriaNizielska/WiktoriaNizielska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ ![Static Badge](https://img.shields.io/badge/vite-%20?style=for-the-badge&logo=vite&logoColor=white&color=%23B28DD8)
 
 Here are some ideas to get you started:
 
