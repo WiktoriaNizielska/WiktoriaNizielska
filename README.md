@@ -6,6 +6,7 @@
 Contact me: wiktorianizielska@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktoria-nizielska)
+
  
 ## 💻 Technologies & Skills
 ![Static Badge](https://img.shields.io/badge/REACT-%20?style=for-the-badge&logo=react&logoColor=black&color=%2361DBFB) ![Static Badge](https://img.shields.io/badge/REDUX-%20%20?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc) ![Static Badge](https://img.shields.io/badge/REDUX--SAGA-%20%20?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc) ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-%20%20?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&color=%23F0DB4F) ![Static Badge](https://img.shields.io/badge/TanStack%20Query-%20?style=for-the-badge&logo=react&logoColor=black&color=%2361dbfb)
@@ -13,9 +14,7 @@ Contact me: wiktorianizielska@gmail.com
  ![Static Badge](https://img.shields.io/badge/ASYNC%2FAWAIT-%20%20?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&color=%23F0DB4F) ![Static Badge](https://img.shields.io/badge/API(FETCH%2C_AXIOS)-%20%20?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&color=%23F0DB4F) ![Static Badge](https://img.shields.io/badge/ERROR_HANDLING-%20%20?style=for-the-badge&logo=JAVASCRIPT&logoColor=black&color=%23F0DB4F) ![Static Badge](https://img.shields.io/badge/NPM-%20%20?style=for-the-badge&logo=npm&color=%23CC3534) ![Static Badge](https://img.shields.io/badge/GIT-%20%20?style=for-the-badge&logo=GIT&logoColor=white&color=%23F1502F) ![Static Badge](https://img.shields.io/badge/HTML-%20%20?style=for-the-badge&logo=HTML5&logoColor=white&color=%23e34c26) ![Static Badge](https://img.shields.io/badge/CSS-%20%20?style=for-the-badge&logo=css3&logoColor=white&color=%23264de4) ![Static Badge](https://img.shields.io/badge/FIGMA-%20?style=for-the-badge&logo=FIGMA&logoColor=white&color=%23A259FF) ![Static Badge](https://img.shields.io/badge/SCRUM-%20?style=for-the-badge&logo=scrum&logoColor=white&color=%23BFD869) ![Static Badge](https://img.shields.io/badge/RESPONSIVE_WEB_DESIGN-%20?style=for-the-badge&color=%23F6BA65) ![Static Badge](https://img.shields.io/badge/TEAMWORK-%20?style=for-the-badge&logo=slack&color=%23770303) ![Static Badge](https://img.shields.io/badge/PULL_REQUESTS_%26_REVIEW-%20?style=for-the-badge&logo=GITHUB&color=%2326104C)
 
 
-
-
-## Currently learning
+## 📚 Currently learning
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ## 🔥 My Development Philosophy
 
@@ -23,6 +22,10 @@ Contact me: wiktorianizielska@gmail.com
 - **User-Centric Design**: Focusing on creating seamless user experiences
 - **Continuous Learning**: Embracing new technologies and best practices
 - **Performance Optimization**: Ensuring fast, responsive web applications
+
+
+## 📈 Statistics
+![WiktoriaNizielska's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WiktoriaNizielska&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
