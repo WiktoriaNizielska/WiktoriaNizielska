@@ -16,6 +16,7 @@ Contact me: wiktorianizielska@gmail.com
 
 ## 📚 Currently learning
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## 🔥 My Development Philosophy
 
 - **Clean Code**: Writing readable, maintainable, and efficient code
