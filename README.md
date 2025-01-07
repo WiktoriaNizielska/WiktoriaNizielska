@@ -19,7 +19,6 @@ Contact me: wiktorianizielska@gmail.com
 
 
 ## 🔥 My Development Philosophy
-
 - **Clean Code**: Writing readable, maintainable, and efficient code
 - **User-Centric Design**: Focusing on creating seamless user experiences
 - **Continuous Learning**: Embracing new technologies and best practices
